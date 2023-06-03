@@ -53,7 +53,9 @@ Contoh penggunaan menggunakan cURL (Linux Command)
         -d "expi=30"
 
 **Catatan**
+
 ✅ - Diperlukan
+
 ⛔️ - Tidak digunakan
 
 ## Delete
@@ -81,7 +83,9 @@ Contoh penggunaan menggunakan cURL (Linux Command)
         -d "user=gegeuserapi"
 
 **Catatan**
+
 ✅ - Diperlukan
+
 ⛔️ - Tidak digunakan
 
 ## Response

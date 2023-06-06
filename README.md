@@ -1,6 +1,14 @@
 
 # SSH/VPN API Services
 
+WebAPI terintegrasi dengan [**SSH/VPN Script**](https://github.com/GegeDesembri/sshvpn-script)
+
+## Configuration
+
+File konfigurasi
+
+    /etc/gegevps/api/.env
+
 ## Access
 
 Melihat Port dan API Key

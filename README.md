@@ -103,3 +103,17 @@ Failed
     	"ok": false,
     	"description": "Error Message"
     }
+
+## SystemD
+
+Start
+
+    systemctl start gegevps-api
+
+Stop
+
+    systemctl stop gegevps-api
+
+Retart
+
+    systemctl restart gegevps-api
